@@ -4,5 +4,7 @@
 
 [portfolio.webm](https://github.com/user-attachments/assets/915dade8-db40-4610-a21d-0ea4349def88)
 
+This is a personal portfolio website built based on the Wendoj portfolio template, customized to showcase my skills and projects, featuring a spline model created by Minguyen.
+
 ## Credits 
 Special thanks to wendoj for the portfolio template and minguyen for the spline model 🎉.
